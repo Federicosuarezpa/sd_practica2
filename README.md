@@ -2,14 +2,14 @@
 
 Lenguajes disponibles:
 
-* [Español](https://github.com/rubengarcia99/BigDataChallenge/blob/27f4d27dee7018d20ea90ee00438969d0f3254a5/README.md)
+* [Español](https://github.com/Federicosuarezpa/sd_practica2/blob/main/README.md)
 
 El proyecto consiste básicamente en coger muchos datos y analizarlos, el tema a tratar es de libre elección,
 en nuestro caso hemos escogido el número de casos diarios de contagios y muertes por el COVID-19
 
 ## Empezando 🚀
 
-* [Documentación](https://github.com/rubengarcia99/BigDataChallenge/blob/27f4d27dee7018d20ea90ee00438969d0f3254a5/documentation.md)
+* [Documentación](https://github.com/Federicosuarezpa/sd_practica2/blob/main/documentation.md)
 
 Para poder comenzar con el proyecto nos hará falta clonarlo, tan sencillo como colocarnos en nuestra terminal y realizar el comando
 git clone https://github.com/rubengarcia99/BigDataChallenge.git
